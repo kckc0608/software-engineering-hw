@@ -1,0 +1,16 @@
+[kckc0608] Tue May 20 01:02:10 2025 +0900 feat: 개인 코드 및 깃허브 주소 추가 f17b87d
+[kckc0608] Tue May 20 00:52:53 2025 +0900 feat: analysis class diagram 완성 b834c0d
+[kckc0608] Tue May 20 00:50:11 2025 +0900 feat: communication diagram 완성 c2e114a
+[kckc0608] Tue May 20 00:26:28 2025 +0900 refactor: 요구사항에 맞게 커뮤니케이션다이어그램 수정 c190683
+[kckc0608] Mon May 19 21:00:12 2025 +0900 feat: 클래스 다이어그램 작성 0e90d09
+[kckc0608] Mon May 19 11:06:10 2025 +0900 feat: auth 정보 커뮤니케이션 다이어그램에 추가 f06d0c0
+[kckc0608] Mon May 19 04:29:40 2025 +0900 feat: 자전거 대여 커뮤니케이션 다이어그램 작성 c4a6431
+[kckc0608] Mon May 19 04:03:51 2025 +0900 feat: 자전거 대여 커뮤니케이션 다이어그램 작성 439d8a4
+[kckc0608] Mon May 19 03:51:15 2025 +0900 feat: 자전거 등록 커뮤니케이션 다이어그램 작성 d66b2e5
+[kckc0608] Mon May 19 03:37:58 2025 +0900 feat: 로그아웃 커뮤니케이션 다이어그램 작성 81b7c33
+[kckc0608] Mon May 19 03:29:25 2025 +0900 feat: 회원가입 커뮤니케이션 다이어그램 작성 ecfd7b4
+[kckc0608] Mon May 19 02:50:43 2025 +0900 feat: 로그인 커뮤니케이션 다이어그램 작성 227772f
+[kckc0608] Fri May 16 15:12:17 2025 +0900 feat: use case description 작성 1d2f26e
+[kckc0608] Thu May 15 23:28:39 2025 +0900 feat: use case diagram 작성 ededd36
+[kckc0608] Thu May 15 23:09:16 2025 +0900 feat: requirement list 작성 7471807
+[kckc0608] Thu May 15 22:39:37 2025 +0900 init 4906aa0
